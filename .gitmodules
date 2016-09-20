@@ -1,3 +1,6 @@
 [submodule "BIMserver-query-plugin-shell"]
 	path = BIMserver-query-plugin-shell
 	url = https://github.com/flaviusb/BIMserver-query-plugin-shell.git
+[submodule "examples/net.flaviusb.blankfilter"]
+	path = examples/net.flaviusb.blankfilter
+	url = https://github.com/flaviusb/net.flaviusb.blankfilter
