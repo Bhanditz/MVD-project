@@ -7,3 +7,6 @@
 [submodule "develop-mvd/mvd-lib"]
 	path = develop-mvd/mvd-lib
 	url = https://github.com/flaviusb/mvd-lib.git
+[submodule "examples/net.flaviusb.floorexample"]
+	path = examples/net.flaviusb.floorexample
+	url = https://github.com/flaviusb/net.flaviusb.floorexample.git
