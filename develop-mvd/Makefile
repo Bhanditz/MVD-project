@@ -1,6 +1,6 @@
 # Location of mirah library files
 
-MVD_MIRAH_LIBRARY = mvd-lib/
+MVD_MIRAH_LIBRARY = mvd-lib/src/
 
 MVD_MIRAH_INCLUDES = "$(MVD_MIRAH_LIBRARY)make_query.mirah"
 

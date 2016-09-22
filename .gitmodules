@@ -4,3 +4,6 @@
 [submodule "examples/net.flaviusb.blankfilter"]
 	path = examples/net.flaviusb.blankfilter
 	url = https://github.com/flaviusb/net.flaviusb.blankfilter
+[submodule "develop-mvd/mvd-lib"]
+	path = develop-mvd/mvd-lib
+	url = https://github.com/flaviusb/mvd-lib.git
