@@ -31,3 +31,9 @@ $ rake gem
 $ gem install pkg/mirah-*.gem
 $ rake dist/mirahc.jar
 ```
+
+If you have problems with Mirah, commit 63a6b628c2072031e8228570cb051be59e926ef8 works. You can change to this commit by running
+
+```
+$ git checkout 63a6b628c2072031e8228570cb051be59e926ef8
+```
