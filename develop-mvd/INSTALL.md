@@ -17,7 +17,9 @@ Clone the MVD-project repo into your third party code directory, including all s
 
 ##Installing Mirah
 
-First install rvm from rvm.io if you do not have it.
+First install rvm from [rvm.io](rvm.io) if you do not have it.
+
+You can skip the installation of gpg2 if you trust the distribution point of rvm.
 
 Then `rvm install jruby` and `rvm --default use jruby` to install jruby and make it your default ruby.
 
