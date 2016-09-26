@@ -1,8 +1,8 @@
 #Detailed install instructions
 
-Make sure you have `build-essentials` if you are on Linux, and the XCode Developer Tools and XCode Command Line Tools if you are in a Mac.
+Make sure you have the `build-essentials` metapackage (or your distribution's equivalent) if you are on Linux, and the XCode Developer Tools and XCode Command Line Tools if you are in a Mac.
 
-Install git from your package manager, if you do not already have it.
+Install git and GNU make from your package manager, if you do not already have them.
 
 Install the JDK8 from your package manager, or from Oracle.
 
