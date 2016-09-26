@@ -8,7 +8,9 @@ Install the JDK8 from your package manager, or from Oracle.
 
 Install Mirah - this is slightly involved.
 
-Get the BIMserver jar files.
+Get the BIMserver jar files from https://github.com/opensourceBIM/BIMserver/releases/tag/1.4.0-FINAL-2015-11-04
+
+Extract the BIMserver jar files into a location they can stay in; you will need these on your CLASSPATH to build BIMserver-query-plugin-shell and to build any MVDs.
 
 Clone the MVD-project repo into your third party code directory, including all submodules, using `git clone --recurse-submodules https://github.com/flaviusb/MVD-project.git`.
 
