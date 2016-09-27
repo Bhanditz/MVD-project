@@ -19,6 +19,10 @@ Clone the MVD-project repo into your third party code directory, including all s
 
 ##Installing Mirah
 
+You can either install from a prepackaged zip file here: [https://github.com/mirah/mirah/releases](https://github.com/mirah/mirah/releases), or you can build Mirah from source.
+
+###Building Mirah from source
+
 First install rvm from [https://rvm.io](rvm.io) if you do not have it.
 
 You can skip the installation of gpg2 if you trust the distribution point of rvm.
