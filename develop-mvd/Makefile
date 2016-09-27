@@ -36,9 +36,7 @@ OUTPUT_MVD_JAR = mvd.jar
 
 $(OUTPUT_MVD_JAR): $(INTERMEDIATE)
 	mirahc -classpath "$(BIMSERVER_JARS):$(OTHER_JARS)" -d "$(ARTIFACTS)" $(INTERMEDIATE)
-	cd "$(ARTIFACTS)"
-	jar cf mvd.jar *
-	cd -
+	cd "$(ARTIFACTS)" && jar cf mvd.jar * && cd -
 	mv "$(ARTIFACTS)"mvd.jar "$(OUTPUT_MVD_JAR)"
 
 MIRAH_TARGETS = $(PACKAGE_DIR)file1.mirah \
