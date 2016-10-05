@@ -10,3 +10,6 @@
 [submodule "examples/net.flaviusb.floorexample"]
 	path = examples/net.flaviusb.floorexample
 	url = https://github.com/flaviusb/net.flaviusb.floorexample.git
+[submodule "develop-mvd/mvd-extension-macros"]
+	path = develop-mvd/mvd-extension-macros
+	url = https://github.com/flaviusb/mvd-extension-macros.git
